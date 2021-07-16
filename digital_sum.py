@@ -8,4 +8,3 @@ def factorial(n):
   
   return ans
 
-print(factorial(5))
