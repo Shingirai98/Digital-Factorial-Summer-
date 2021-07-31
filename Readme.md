@@ -13,10 +13,10 @@
 
 
 ## File Structure
-* Dockerfile : 
-* factorial-digits.py :
-* Readme.md :
-* requirement.txt :
+* Dockerfile : document that contains all the commands a user could call on the command line to assemble an image
+* factorial-digits.py : source code to run calculate the sum of the factorial digits
+* Readme.md : File contains information about other files, how to run the program and the requirements
+* requirements.txt : Libraries required to run the program
 
 
 ## Requirements
